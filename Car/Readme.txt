@@ -1,0 +1,1 @@
+Car: A class which has properties like make, model, year, mileage and price. This is basic implmentation and the class would be used further to implment Design Patterns.

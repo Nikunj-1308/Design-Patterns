@@ -1,0 +1,1 @@
+PrimeGenerator class: A simple implmentation of class that generates prime numbers for a given range.
