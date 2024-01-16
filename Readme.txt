@@ -1,1 +1,1 @@
-Implmentaion of few scenarios with various Design Patterns and Lambda Expressions.
+Implementation of few scenarios with various Design Patterns and Lambda Expressions.
